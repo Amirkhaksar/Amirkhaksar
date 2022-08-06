@@ -6,7 +6,7 @@
    </p>
    <p align="center">
       <samp>
-         <em>I'm Amirkhaksar</em>
+         <em>My Name is Amir Khaksar and I am a Software Developer and Backend developer.</em>
       </samp><br>
    </p>
 <p align="center">
