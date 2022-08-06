@@ -27,6 +27,8 @@
    <br>
    <img src="https://img.shields.io/badge/Linux -Linux.svg?style=for-the-badge&logo=Linux&logoColor=white&color=yellow">
    <img src="https://img.shields.io/badge/Windwos -Windwos.svg?style=for-the-badge&logo=Windows&logoColor=white&color=blue">
-    <br>
+   <br>
+   <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amirkhaksar&theme=blue-green" >
 </p>
-![Amirkhaksar's Github Stats](https://github-readme-stats.vercel.app/api?username=Amirkhaksar&theme=blue-green)
+
