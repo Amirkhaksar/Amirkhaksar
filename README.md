@@ -29,3 +29,4 @@
    <img src="https://img.shields.io/badge/Windwos -Windwos.svg?style=for-the-badge&logo=Windows&logoColor=white&color=blue">
     <br>
 </p>
+![Amirkhaksar's Github Stats](https://github-readme-stats.vercel.app/api?username=Amirkhaksar&theme=blue-green)
