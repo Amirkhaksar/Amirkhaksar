@@ -15,7 +15,7 @@
    </p>
 <p align="center">
    <samp>
-      <em>languages and Thechnologies.</em>
+      <em>languages and Thechnologies:</em>
       <br>
    </samp><br>
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
