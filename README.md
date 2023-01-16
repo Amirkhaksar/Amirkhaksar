@@ -2,17 +2,17 @@
 <p align="center">
    <a href="https://git.io/typing-svg"><img
          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there.Welcome+%F0%9F%91%8B"
-         alt="Typing SVG" /></a>
+         alt="Typing SVG" align="center"/></a>
 </p>
 <p align="center">
    <a href="https://git.io/typing-svg"><img
          src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+Name+is+Amir+Khaksar"
-         alt="Typing SVG" /></a>
+         alt="Typing SVG" align="center"/></a>
 </p>
 <p align="center">
    <a href="https://git.io/typing-svg"><img
          src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&width=1000&height=70&lines=I'm+a+Software%2C+Backend+developer+and+Junior+Cybersecurity+resarcher"
-         alt="Typing SVG" /></a>
+         alt="Typing SVG" align="center"/></a>
 </p>
 <p align="center">
    <samp>
