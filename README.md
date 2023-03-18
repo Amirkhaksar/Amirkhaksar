@@ -30,7 +30,7 @@
    <img src="https://img.shields.io/badge/Django-Django.svg?style=for-the-badge&logo=Django&logoColor=white&color=#092E20">
    <img src="https://img.shields.io/badge/.NET -NET.svg?style=for-the-badge&logo=.NET&logoColor=white&color=blueviolet">
    <br>
-   <img align="center" src="https://img.shields.io/badge/Linux -Linux.svg?style=for-the-badge&logo=Linux&logoColor=white&color=important">
+   <img src="https://img.shields.io/badge/Linux -Linux.svg?style=for-the-badge&logo=Linux&logoColor=white&color=important">
    <img src="https://img.shields.io/badge/Windwos -Windwos.svg?style=for-the-badge&logo=Windows&logoColor=white&color=blue">
    <br>
    <br>
