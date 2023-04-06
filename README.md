@@ -27,7 +27,7 @@
    <img src="https://img.shields.io/badge/Postgresql-postgresql?style=for-the-badge&logo=postgresql&logoColor=blue&color=lightblue">
    <br>
    <img src="https://img.shields.io/badge/Django-Django.svg?style=for-the-badge&logo=Django&logoColor=white&color=#092E20">
-   <img src="https://img.shields.io/badge/.NET -NET.svg?style=for-the-badge&logo=.NET&logoColor=white&color=blueviolet">-->
+   <img src="https://img.shields.io/badge/.NET -NET.svg?style=for-the-badge&logo=.NET&logoColor=white&color=blueviolet">
    <!--<img src="https://img.shields.io/badge/ASPDOTNET -ASPDOTNET.svg?style=for-the-badge&logo=asp.net&logoColor=white&color=blueviolet">-->
    <br>
    <img src="https://img.shields.io/badge/Linux -Linux.svg?style=for-the-badge&logo=Linux&logoColor=white&color=important">
