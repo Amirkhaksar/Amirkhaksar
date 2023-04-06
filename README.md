@@ -22,6 +22,7 @@
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/Csharp-csharp.svg?style=for-the-badge&logo=csharp&logoColor=white&color=blueviolet">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+   <img src="https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=js&logoColor=yellow">
    <br>
    <img src="https://img.shields.io/badge/Microsoft SQL Server-microsoftsqlserver.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=lightgray">
    <img src="https://img.shields.io/badge/SQL lite-SQLite.svg?style=for-the-badge&logo=SQLite&logoColor=blue&color=lightgray">
