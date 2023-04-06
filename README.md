@@ -33,5 +33,5 @@
    <img src="https://img.shields.io/badge/Windwos -Windwos.svg?style=for-the-badge&logo=Windows&logoColor=white&color=blue">
    <br>
    <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amirkhaksar&theme=blue-green" >
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amirkhaksar&theme=blue-green" >-->
 </p>
