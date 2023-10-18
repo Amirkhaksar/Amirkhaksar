@@ -10,7 +10,7 @@
             <br>
             <em>I'm a Software Developer and Backend developer.</em>
             <br>
-            <em>I'm so enthusiastic about bug hunting and of course cyber security.</em>
+            <em>I'm so enthusiastic about of course cyber security.</em>
       </samp><br>
 </p>
 <p align="center">
